@@ -1,0 +1,6 @@
+@ReserveringssysteemzonderEFAPI_HostAddress = http://localhost:5219
+
+GET {{ReserveringssysteemzonderEFAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
